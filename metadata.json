@@ -1,0 +1,5 @@
+{
+  "name": "Guardian - Emergency Helper",
+  "description": "A mobile-friendly emergency system with accident detection, SOS alerts, and automated emergency messaging.",
+  "requestFramePermissions": ["geolocation", "camera"]
+}
